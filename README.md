@@ -12,6 +12,7 @@ This project is just simple demonstration of how AWS Lambda works using Python a
 - Amazon S3
 - Amazon SNS
 - AWS Lambda
+- Boto3
 - Gmail Account
 
 

@@ -1,4 +1,3 @@
-import json
 import boto3
 
 s3 = boto3.client('s3') # client that representing s3
